@@ -1,1 +1,8 @@
 E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionTest\obj\Debug\RomanToIntConversionTest.csprojResolveAssemblyReference.cache
+E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionTest\bin\Debug\RomanToIntConversionTest.dll
+E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionTest\bin\Debug\RomanToIntConversionTest.pdb
+E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionTest\bin\Debug\RomanToIntConversionDev.dll
+E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionTest\bin\Debug\RomanToIntConversionDev.pdb
+E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionTest\obj\Debug\RomanToIntConversionTest.dll
+E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionTest\obj\Debug\RomanToIntConversionTest.pdb
