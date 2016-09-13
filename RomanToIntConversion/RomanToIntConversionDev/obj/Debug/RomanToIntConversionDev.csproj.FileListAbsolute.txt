@@ -4,6 +4,5 @@ E:\Github\abc\TDD\RomanToIntConversion\RomanToIntConversionDev\obj\Debug\RomanTo
 E:\Github\abc\TDD\RomanToIntConversion\RomanToIntConversionDev\obj\Debug\RomanToIntConversionDev.pdb
 E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionDev\bin\Debug\RomanToIntConversionDev.dll
 E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionDev\bin\Debug\RomanToIntConversionDev.pdb
-E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionDev\obj\Debug\RomanToIntConversionDev.csprojResolveAssemblyReference.cache
 E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionDev\obj\Debug\RomanToIntConversionDev.dll
 E:\Github\TechnoSoft\RomanToIntConversion\RomanToIntConversionDev\obj\Debug\RomanToIntConversionDev.pdb

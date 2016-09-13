@@ -10,7 +10,7 @@ namespace RomanToIntConversionDev
     {
         public int Convert(string input)
         {
-            return 0;
+            return RomanToInteger(input);
         }
 
         private static Dictionary<char, int> RomanIntMap = new Dictionary<char, int>()
